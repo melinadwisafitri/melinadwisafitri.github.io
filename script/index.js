@@ -4,7 +4,7 @@ const img1 = document.querySelector('.gamis')
 const img2 = document.querySelector('.kaos')
 const img3 = document.querySelector('.jacket')
 const img4 = document.querySelector('.hijab')
-const circlePath = document.querySelector('.circle');
+const circlePath = document.querySelector('.circle')
 
 humbergerIcon.addEventListener('click', () => {
     humbergerIcon.classList.toggle('active');
